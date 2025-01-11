@@ -114,3 +114,21 @@ margin-top: 10px;
 .new-btn{
     margin-left: 600px;
 }
+.new{
+    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.input-new{
+    width: 40%;
+    height: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    border: 0px;
+    background-color: blanchedalmond
+}
+.btn-input{
+    margin-left: 0px;
+}
