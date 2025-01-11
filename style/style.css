@@ -1,5 +1,6 @@
 *{
     margin: 20px;
+   
 }
 .nav-bar{
 display:flex;
@@ -24,6 +25,92 @@ margin-top: 10px;
     width: 50%;
     margin: 100px 70px;
 }
+.tittle{
+    color: darkslategray;
+}
 .header-idea{
     font-size:50px;
+}
+/* vision */
+.text-size{
+    font-size: xx-large;
+}
+.text-color{
+    color:darkcyan;
+}
+.img{
+    margin-bottom: 0px;
+}
+.cart-vision{
+    background-color: azure;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.vission{
+    display: flex;
+    
+}
+.btn-vission{
+    padding:10px 20px;
+     font-size:medium;
+     border-radius: 10px;
+     margin-top: 10px; 
+}
+.btn-vission:hover{
+    background-color: yellow;
+    
+}
+.article{
+    background-image: url("../assets//quote-bg.png");
+    background-repeat: no-repeat;
+    border: 2px solid gainsboro;
+    margin: 10px;
+    padding: 10px 5px;
+    border-radius: 15px;
+}
+.satelite-cart{
+    display: flex;
+    border: 2px solid gainsboro;
+    background-color:blanchedalmond;
+    border-radius: 15px;
+    padding: 0px;
+}
+.img-new{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.text-donet{
+    font-size: xx-large;
+    text-align: center;
+}
+.taka-cart{
+    display: flex;
+    margin-left: 200px;
+}
+.taka{
+    /* height: 80px;
+    width: 150px; */
+    background-color: aliceblue;
+    padding:40px 50px;
+    border-radius: 20px;
+    
+}
+.color-change{
+    background-color:gainsboro;
+}
+.change:hover{
+    background-color: burlywood;
+}
+.input{
+    width: 80%;
+    height: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    border: 0px;
+    background-color: blanchedalmond;
+}
+.new-btn{
+    margin-left: 600px;
 }
